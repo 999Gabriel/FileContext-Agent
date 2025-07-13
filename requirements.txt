@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+tiktoken
+watchdog
+pydantic
+fastapi
+uvicorn
